@@ -1,0 +1,129 @@
+
+
+
+#navbar-header {
+	font-size: 15px;
+
+#navbar-brand {
+	font-family: Garamond;
+	font-size: 20px;
+	color: white;
+}
+
+#nav navbar-nav {
+	background: none;
+}
+
+}
+
+ header {
+      text-align: center;
+  
+    }
+
+
+    a {
+      color: black;
+    }
+    h1 {
+      font-size: 70px;
+      font-family: Garamond;
+      opacity: none;
+      color: white;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 10px;
+      opacity: none;
+
+    }
+    ul {
+      padding: 40px;
+      
+      background-color: white;
+      opacity: .7
+
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+     
+      opacity: .6;
+      color: black;
+      font-family: Garamond;
+      font-size: 26px;
+    }
+
+    div {
+      color: grey;
+    }
+
+    p {
+      text-align: center;
+      font-family: Garamond;
+      font-size: 30px;
+      opacity: .5;
+      background-color: white;
+      color: black;
+    }
+
+    img {
+	width:130px;
+	height:130px;
+}
+
+ body { 
+ 
+  	background: url("images/glasto13a.jpg") 50% 50% no-repeat;
+  	
+}
+
+table, td {
+	border: none;
+	margin: auto;
+	padding-top: 0px;
+	padding-left: 10px;
+	border-width: 3px;
+
+}
+
+thead {
+	font-family: Arial;
+	position: center;
+	opacity: none;
+}
+
+.twitter-timeline {
+	position: auto;
+}
+
+.input-group {
+	position: auto;
+	padding-top: 10px;
+	border-radius: 20px;
+	
+}
+
+#social-buttons button {
+  color: white;
+  text-align: center;
+
+}
+.btn-twitter {
+  background-color: #00acee;
+  border-color: #009ad5;
+  border-radius: 5px;
+}
+
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+  border-radius: 5px;
+}
+
+.btn-pinterest {
+  background-color: #b62f26;
+  border-color: #b62f26;
+  border-radius: 5px;
+}
